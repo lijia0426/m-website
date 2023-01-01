@@ -19,7 +19,7 @@
     "node-sass": "^4.12.0",
     "parallel": "^1.2.0",
     "string-loader": "^0.0.1",
-    "webpack-stream": "^5.2.1",
+    "webpack-stream": "^7.0.0",
     "yo3": "^3.1.8"
   },
   "scripts": {
